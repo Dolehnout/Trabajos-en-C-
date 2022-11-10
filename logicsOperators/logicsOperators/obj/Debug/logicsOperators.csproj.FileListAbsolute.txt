@@ -1,0 +1,8 @@
+C:\gemaakt\logicsOperators\logicsOperators\bin\Debug\logicsOperators.exe.config
+C:\gemaakt\logicsOperators\logicsOperators\bin\Debug\logicsOperators.exe
+C:\gemaakt\logicsOperators\logicsOperators\bin\Debug\logicsOperators.pdb
+C:\gemaakt\logicsOperators\logicsOperators\obj\Debug\logicsOperators.csproj.AssemblyReference.cache
+C:\gemaakt\logicsOperators\logicsOperators\obj\Debug\logicsOperators.csproj.SuggestedBindingRedirects.cache
+C:\gemaakt\logicsOperators\logicsOperators\obj\Debug\logicsOperators.csproj.CoreCompileInputs.cache
+C:\gemaakt\logicsOperators\logicsOperators\obj\Debug\logicsOperators.exe
+C:\gemaakt\logicsOperators\logicsOperators\obj\Debug\logicsOperators.pdb
