@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmBucleWhile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBucleWhile.designer.cs">
+      <DependentUpon>frmBucleWhile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambioTamaño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambioTamaño.Designer.cs">
+      <DependentUpon>frmCambioTamaño.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDecimalABinario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,8 +76,26 @@
     <Compile Include="frmExponente.Designer.cs">
       <DependentUpon>frmExponente.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTablas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTablas.designer.cs">
+      <DependentUpon>frmTablas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBucleWhile.resx">
+      <DependentUpon>frmBucleWhile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambioTamaño.resx">
+      <DependentUpon>frmCambioTamaño.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmDecimalABinario.resx">
       <DependentUpon>frmDecimalABinario.cs</DependentUpon>
     </EmbeddedResource>
@@ -74,6 +104,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmExponente.resx">
       <DependentUpon>frmExponente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTablas.resx">
+      <DependentUpon>frmTablas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

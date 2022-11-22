@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\bin\Debug\BuclesGonzálezAndrew.exe.config
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\bin\Debug\BuclesGonzálezAndrew.exe
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\bin\Debug\BuclesGonzálezAndrew.pdb
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.frmDecimalABinario.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.frmDecimalABinarioLST.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.frmPotencia.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.exe
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.pdb
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.frmMenu.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\EjercicioBucles.frmTablas.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\EjercicioBucles.frmBucleWhile.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\BuclesForm\BuclesGonzálezAndrew\obj\Debug\BuclesGonzálezAndrew.frmCambioTamaño.resources

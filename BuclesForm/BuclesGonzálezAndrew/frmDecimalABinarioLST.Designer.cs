@@ -40,6 +40,7 @@
             // txtDecimal
             // 
             this.txtDecimal.Location = new System.Drawing.Point(255, 205);
+            this.txtDecimal.MaxLength = 5;
             this.txtDecimal.Name = "txtDecimal";
             this.txtDecimal.Size = new System.Drawing.Size(100, 20);
             this.txtDecimal.TabIndex = 4;

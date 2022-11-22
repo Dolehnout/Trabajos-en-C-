@@ -58,5 +58,10 @@ namespace BuclesGonzálezAndrew
                 }
             }
         }
+
+        public static implicit operator frmDecimalABinario(frmDecimalABinarioLST v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace BuclesGonzálezAndrew
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmDecimalABinarioLST());
+            Application.Run(new frmCambioTamaño());
         }
     }
 }
