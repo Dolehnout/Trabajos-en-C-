@@ -1,0 +1,12 @@
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\bin\Debug\functionApp.exe.config
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\bin\Debug\functionApp.exe
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\bin\Debug\functionApp.pdb
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.frmCuadrado.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.exe
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.pdb
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.frmPotencia.resources
