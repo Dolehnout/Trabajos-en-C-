@@ -10,3 +10,5 @@ C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionA
 C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.exe
 C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.pdb
 C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.frmPotencia.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.frmTablas.resources
+C:\Users\Administrador\source\repos\Dolehnout\Trabajos-en-Cs\Funciones\functionApp\functionApp\obj\Debug\functionApp.UsuarioyClave.resources

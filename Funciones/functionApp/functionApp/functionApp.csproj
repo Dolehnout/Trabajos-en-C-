@@ -58,13 +58,29 @@
     <Compile Include="frmPotencia.Designer.cs">
       <DependentUpon>frmPotencia.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmTablas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTablas.Designer.cs">
+      <DependentUpon>frmTablas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fuctions\Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuarioyClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsuarioyClave.Designer.cs">
+      <DependentUpon>UsuarioyClave.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmCuadrado.resx">
       <DependentUpon>frmCuadrado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPotencia.resx">
       <DependentUpon>frmPotencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTablas.resx">
+      <DependentUpon>frmTablas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -75,6 +91,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UsuarioyClave.resx">
+      <DependentUpon>UsuarioyClave.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
