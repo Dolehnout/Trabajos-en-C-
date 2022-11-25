@@ -16,19 +16,34 @@ namespace functionApp
         {
             InitializeComponent();
         }
-
+        int intentos = 5;
         private void button1_Click(object sender, EventArgs e)
         {
             string usuario = this.txtUsuario.Text;
             string clave = this.txtClave.Text;
-            if (functions.Varias.validaUsuario(usuario, clave))
+
+            if (intentos <= 0) this.Close();
+            if (!(functions.Varias.validaUsuario(usuario, clave)))
             {
-                MessageBox.Show("Ingreso exitoso.");
+                MessageBox.Show("Usuario o clave incorrectos.");
+                intentos--;
+                lblIntentos.Text = $"Te quedan {intentos} intentos.";
             }
             else
             {
-                MessageBox.Show("Usuario o clave incorrectos.");
+                MessageBox.Show("Ingreso exitoso.");
+                frmMenu Menu = new frmMenu();
+                Menu.Show();
             }
+            
+
+
+
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

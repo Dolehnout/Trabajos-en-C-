@@ -25,10 +25,15 @@ namespace functions
             }
             return aux;
         }
+        /// <summary>
+        /// Valida el usuario y la clave
+        /// </summary>
+        /// <param name="usuario"></param>
+        /// <param name="clave"></param>
+        /// <returns></returns>
         public static bool validaUsuario(string usuario, string clave)
         {
-            usuario = "devin";
-            clave = "devin";
+            
             return (usuario == "devin" && clave == "devin") ? true : false;
         }
     }
